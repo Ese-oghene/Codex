@@ -12,7 +12,7 @@ import Shop from "./pages/Shop";
 import Subscriptions from "./pages/Subscriptions";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
-import Footer from './components/footer';
+import Footer from './components/Footer';
 import ProductDetails from './pages/ProductDetails';
 import Cart from "./pages/Cart";
 import Checkout from './pages/Checkout';
