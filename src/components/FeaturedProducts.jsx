@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import Briefcase from "../assets/images/hero-image.png";
 import Wallet from "../assets/images/wallet.png";
 import Lawatire from "../assets/images/lawatire.png";
-import Lawbook from "../assets/images/Lawbook.png";
+import Lawbook from "../assets/images/lawbook.png";
 import Men from "../assets/images/men.png";
 import Lawshoe from "../assets/images/lawshoe.png";
 import Lawbook2 from "../assets/images/booklaw.png";
