@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+
+/* THEME COLORS */
+:root {
+  --primary: #000000;     /* black */
+  --secondary: #c9a24d;   /* gold */
+}
+
+
+
+html, body {
+  background-color: #000;
+  margin: 0;
+  padding: 0;
+}
+
